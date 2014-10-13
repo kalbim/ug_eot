@@ -1,0 +1,9 @@
+
+@font-face {
+    font-family: 'UKIJ Kufi Yay';
+    src: url('UKIJKuY.eot');
+    src: url('UKIJKuY.eot?#iefix') format('embedded-opentype'),
+         url('UKIJKuY.woff') format('woff'),
+         url('UKIJKuY.ttf') format('truetype'),
+         url('UKIJKuY.svg#UKIJKuYRegular') format('svg');
+}
